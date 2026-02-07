@@ -4,9 +4,9 @@ Book Inventory API
 - This is a simple Book Inventory Service built with Spring Boot. It acts as a digital catalog that allows users to look up specific book information (Title and Author) using a unique Book ID.
 
 ## Table of contents
-* [Key Features](#Key Features)
-* [How to Use](#How to Use)
-* [Technology Stack](#Technology Stack)
+* [Key Features](#Key-Features)
+* [How to Use](#How-to-Use)
+* [Technology Stack](#Technology-Stack)
 
 ### Key Features
 * Search by ID: Instantly retrieve book details via a dedicated web link.
