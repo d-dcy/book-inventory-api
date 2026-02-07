@@ -1,0 +1,33 @@
+{
+  "info": {
+    "_postman_id": "3e55770d-e683-41b1-a456-aa3f292e3046",
+    "name": "Book Inventory API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "38201630"
+  },
+  "item": [
+    {
+      "name": "Retrieved Book by Id",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/books/1",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "books",
+            "1"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
